@@ -3,7 +3,13 @@ body {
 	background: url("../img/real_cf.png");
 }
 
-h1, h3 {
+h1 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-weight: 700;
+
+}
+
+h3 {
 	font-family: 'Quattrocento Sans', sans-serif;
 	font-weight: 700;
 
@@ -12,3 +18,4 @@ h1, h3 {
 p {
 	font-family: 'Quattrocento Sans' italic, sans-serif; font-weight: 400;
 }
+

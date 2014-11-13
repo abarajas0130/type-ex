@@ -1,7 +1,14 @@
-/* Your Website Styles */
+body {
+	color: white;
+	background: url("../img/real_cf.png");
+}
 
+h1, h3 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-weight: 700;
 
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+}
+
+p {
+	font-family: 'Quattrocento Sans' italic, sans-serif; font-weight: 400;
 }
